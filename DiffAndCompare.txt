@@ -3,5 +3,3 @@ Here is a first line
 This is a third line, only added after the second one ;)
 
 This is a second line
-
-Yet another line
