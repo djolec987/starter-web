@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 With examples. Adding something for rebase example...
+By the way...
 
 ## Purpose
 
